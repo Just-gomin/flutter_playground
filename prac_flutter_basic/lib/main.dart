@@ -60,6 +60,16 @@ class _MyHomePageState extends State<MyHomePage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
+            Center(
+              child: Text(
+                "This is Customized Flutter Basic Example",
+                style: Theme.of(context).textTheme.headline6,
+              ),
+            ),
+            const SizedBox(
+              width: 30,
+              height: 30,
+            ),
             const Text(
               'You have pushed the button this many times:',
             ),
@@ -71,12 +81,13 @@ class _MyHomePageState extends State<MyHomePage> {
               mainAxisAlignment: MainAxisAlignment.center,
               children: <Widget>[
                 ElevatedButton(
-                    onPressed: _incrementCounter,
-                    child: const Text(
-                      "+",
-                      style: TextStyle(fontWeight: FontWeight.bold),
-                    )),
-                SizedBox(
+                  onPressed: _incrementCounter,
+                  child: const Text(
+                    "+",
+                    style: TextStyle(fontWeight: FontWeight.bold),
+                  ),
+                ),
+                const SizedBox(
                   width: 30,
                   height: 30,
                 ),
