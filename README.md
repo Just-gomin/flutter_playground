@@ -14,7 +14,7 @@
 - 플러터 공식 유튜브 채널 : https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw
 - 플러터 공식 깃 허브 : https://github.com/flutter
 
----
+<br>
 
 ## Flutter 공부하기
 
@@ -24,7 +24,7 @@
 |  2  | Project Structure | [Flutter Structure](./prac_flutter_structure) |   플러터 프로젝트의 파일 구성.   |  2021.11.13   |  2021.11.13   |
 |  3  |       State       |               [Flutter State]()               | 플러터 State의 개념과 Life Cycle |       -       |       -       |
 
----
+<br>
 
 ## Flutter 예제 프로젝트
 
