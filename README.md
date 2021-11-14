@@ -18,11 +18,12 @@
 
 ## Flutter 공부하기
 
-| No. |       주제        |                Directory Link                 |               설명               | 최초 작성일자 | 최근 수정일자 |
-| :-: | :---------------: | :-------------------------------------------: | :------------------------------: | :-----------: | :-----------: |
-|  1  |   Basic Concept   |     [Flutter Basic](./prac_flutter_basic)     |  플러터의 기본적인 내용과 설치.  |  2021.11.12   |  2021.11.12   |
-|  2  | Project Structure | [Flutter Structure](./prac_flutter_structure) |   플러터 프로젝트의 파일 구성.   |  2021.11.13   |  2021.11.13   |
-|  3  |       State       |               [Flutter State]()               | 플러터 State의 개념과 Life Cycle |       -       |       -       |
+| No. |       주제        |                Directory Link                 |                                           설명                                            | 최초 작성일자 | 최근 수정일자 |
+| :-: | :---------------: | :-------------------------------------------: | :---------------------------------------------------------------------------------------: | :-----------: | :-----------: |
+|  1  |   Basic Concept   |     [Flutter Basic](./prac_flutter_basic)     |                               플러터의 기본적인 내용과 설치                               |  2021.11.12   |  2021.11.12   |
+|  2  | Project Structure | [Flutter Structure](./prac_flutter_structure) |                                플러터 프로젝트의 파일 구성                                |  2021.11.13   |  2021.11.13   |
+|  3  |       State       |               [Flutter State]()               |                             플러터 State의 개념과 Life Cycle                              |       -       |       -       |
+|  4  |     Provider      |             [Flutter Provider]()              | 플러터의 State를 관리할 수 있게 돕는 패키지 Provider<br>https://pub.dev/packages/provider |       -       |       -       |
 
 <br>
 
