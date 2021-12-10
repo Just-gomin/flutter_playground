@@ -1,0 +1,29 @@
+{
+  "configurations": [
+    {
+      "name": "Web",
+      "request": "launch",
+      "args": ["-d", "chrome"],
+      "type": "dart",
+      "flutterMode": "debug"
+    },
+    {
+      "name": "Android",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "android"
+    },
+    {
+      "name": "iOS",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "iphone"
+    }
+  ],
+  "compounds": [
+    {
+      "name": "Compound",
+      "configurations": ["Web", "Android", "iOS"]
+    }
+  ]
+}
